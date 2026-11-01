@@ -1,0 +1,11 @@
+{
+  "name": "claude-secret-rotation",
+  "owner": { "name": "Mykal-Steele" },
+  "plugins": [
+    {
+      "name": "secret-rotation",
+      "source": "./",
+      "description": "Rotate or audit a project's credentials across env files, CI secrets and the hosting platform, with a guided tool that rolls back on failure."
+    }
+  ]
+}

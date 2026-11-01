@@ -1,0 +1,7 @@
+{
+  "name": "secret-rotation",
+  "version": "1.0.0",
+  "description": "Rotate or audit a project's credentials across env files, CI secrets and the hosting platform, with a guided tool that rolls back on failure.",
+  "author": { "name": "Mykal-Steele" },
+  "license": "MIT"
+}

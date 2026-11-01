@@ -1,0 +1,4 @@
+{
+  "secrets": "node scripts/rotate-secrets.mjs",
+  "secrets:check": "node scripts/secrets-check.mjs"
+}
